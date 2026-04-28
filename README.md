@@ -2,7 +2,7 @@
 
 Hi, I'm **Hamza Mechaal** 👋  
 
-Junior web developer who enjoys building clean and modern web applications.  
+Full stack developer who enjoys building clean and modern web applications.  
 I love turning ideas into functional projects and improving a little more every day.
 
 ---
